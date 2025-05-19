@@ -6,7 +6,9 @@ This is a Python package for getting easy access to tools needed to perform calc
 Coming soon
 
 ### Install from source
- 
+1. Clone repo using ```git clone git@github.com:rambech/gnc-tools.git```
+2. Enter the repo using ```cd gnc-tools```
+3. Install package using ```python3 -m pip install .```
 
 ## Usage
 ### GNC functions
