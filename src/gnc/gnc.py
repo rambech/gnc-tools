@@ -28,13 +28,13 @@ def distance_along_great_circle(lat0: float, lon0: float, lat1: float, lon1: flo
     Parameters
     ----------
         lat0 : float
-            Latitude at start point
+            Latitude at start point in degrees
         lon0 : float
-            Longitude at start point
+            Longitude at start point in degrees
         lat1 : float
-            Latitude at start point
+            Latitude at start point in degrees
         lon1 : float
-            Longitude at start point
+            Longitude at start point in degrees
 
     Returns
     -------
